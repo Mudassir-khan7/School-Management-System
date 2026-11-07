@@ -7,6 +7,3 @@
 # Temporary files
 *.tmp
 *.log
-
-# Precompiled headers
-*.gch
